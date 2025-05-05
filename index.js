@@ -16,7 +16,7 @@ app.listen(3000, () => {
 function startBot() {
   const bot = mineflayer.createBot({
     host: 'Kings_here.aternos.me', // ← Aternos sunucu adını buraya yaz
-    port: 25565, // Aternos varsayılan portu
+    port: 60824, // Aternos varsayılan portu
     username: 'AFKBot123', // Botun kullanıcı adı
   });
 
